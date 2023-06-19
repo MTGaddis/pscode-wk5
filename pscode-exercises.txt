@@ -1,0 +1,52 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+1. Start
+2. Read num1
+3. Read num2
+4. sum = num1 + num2
+5. Display sum
+6. End
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+1. Start
+2. Read number
+3. if number is even then
+4.    Display "The number is even."
+5. else
+6.    Display "The number is odd."
+7. End
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+1. Start
+2. Read num1
+3. Read num2
+4. Read num3
+5. Read num4
+6. Read num5
+7. average = (num1 + num2 + num3 + num4 + num5) / 5
+8. smallest = num1
+9. largest = num1
+10. if num2 < smallest then set smallest = num2
+11. if num2 > largest then set largest = num2
+12. if num3 < smallest then set smallest = num3
+13. if num3 > largest then set largest = num3
+14. if num4 < smallest then set smallest = num4
+15. if num4 > largest then set largest = num4
+16. if num5 < smallest then set smallest = num5
+17. if num5 > largest then set largest = num5
+18. Display "The average is " + average
+19. Display "The smallest number is " + smallest
+20. Display "The largest number is " + largest
+21. End
+
+
+-- END --
